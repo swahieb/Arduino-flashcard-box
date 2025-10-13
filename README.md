@@ -19,9 +19,16 @@ I'm currently working on:
 
 ---
 
+## 🎬 Demo
+
+▶️ Watch it in action:  
+[https://youtube.com/shorts/e7x5Eq8Z5u8?feature=share](https://youtube.com/shorts/e7x5Eq8Z5u8?feature=share)
+
+---
+
 ## 📚 Tech Used
 - Arduino Uno
-- 16x2 LCD Display (parallel, not I2C)
+- 16x2 LCD Display (parallel, no I2C)
 - Push Button
 - LiquidCrystal Library
 
